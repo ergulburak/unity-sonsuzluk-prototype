@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.unity-sonsuzluk-prototype.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\burak\OneDrive\Documents\GitHub\unity-sonsuzluk-prototype\.idea\.idea.unity-sonsuzluk-prototype\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
