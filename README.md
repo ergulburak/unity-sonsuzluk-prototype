@@ -2,8 +2,6 @@
 
 When I saw the Manifold Garden, I liked its concept very much. No matter what you did, you were going back to the same place. It's as if you have fallen into an endless prison. I wanted to design a system similar to this one.
 
-More Information: [log page](https://ergulburak.github.io/2021/02/09/sonsuzluk-tema.html "Blog")
-
 [Manifold Garden][garden]'ı görünce konseptini çok beğendim. ne yaparsan yap aynı yere geri dönüyordun. Sanki sonsuz bir hapishanenin içine düşülmüş gibi. Buna benzer bir sistem tasarlamak istedim.
 
 ilk olarak bu sonsuzluk kavramını nasıl işleyeceğimi düşündüm. Karakteri haritanın sonuna geldiğinde, haritanın başına olması gerektiği yere ışınlayarak bunu sağlama kararı aldım. Bu mekanik üzerine düşünerek yapılacaklar listemizi oluşturdum:
